@@ -32,7 +32,7 @@ to implement acne detection.
 
 Roboflow is a tool designed to simplify computer vision tasks in deep learning. It provides a platform for labeling images, building models for categorization, and detecting various classes within an image. The program downloads the trained model weights to make predictions on new images provided by the user. Upon testing the trained model, a dictionary with the bounding box coordinates' values will be given. This allows for classification and the visualization of images with the highlighted box coordinates.
 
-# Recommendaton System
+# RECOMMENDATION SYSTEM
 
 The product-based recommendation system is designed to select the most similar products to a chosen item. This analysis aids in creating a website that offers products tailored to different users based on their skin type, concerns, and desired effects. The system establishes a complex relationship between product features using TF-IDF cosine similarity values to match products. TF-IDF (Term Frequency Inverse Document Frequency) calculates the relevance of a word in a series to a given text by determining its frequency. This frequency is represented as a vector. The cosine similarity algorithm then measures the similarity between two products by comparing their TF-IDF vector values. It calculates the cosine angle between these vectors to assess the similarity of the text values. Products with smaller cosine angles are considered more similar. This approach helps in building an effective recommender system.
 
