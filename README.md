@@ -39,4 +39,4 @@ The product-based recommendation system is designed to select the most similar p
 # UI
 After exporting the dataset, the recommendation website is developed using the Streamlit Python library. The similarity values are utilized to recommend products by filtering them based on the user's skin type, skin concerns, and desired effects. The recommender system is constructed similarly to the recommendation model. The web-based application provides the top five product recommendations that best address the user's specific concerns.
 
-If you need help running the code to get an output similar to the screenshot attached, send me an email at akshaya.balasubramani6@gmail.com.
+If you need help running the code, send me an email at akshaya.balasubramani6@gmail.com.
